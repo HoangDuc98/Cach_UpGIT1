@@ -4,7 +4,7 @@ Giới thiệu moi
 
 Xin chào các bạn, hôm nay mình sẽ giới thiệu tới các bạn một bài toán  mình đã gặp trong dự án. Đó là xử lý include dữ liệu từ file HTML vào nội dung trang web bằng javascript. Hãy cùng mình phân tích yêu cầu nhé.
 
-Yêu 
+Yêu quý
 Khách hàng có xây dựng nhiều modules(mỗi module tương tự 1 trang web dịch vụ của KH) khác nhau và các modules này đều đang chạy đồng thời, tuy nhiên phần header/footer thì tất cả các modules đều giống nhau. Vì thế phần header/footer này KH muốn tách ra thành 2 files riêng để tiện cho việc chỉnh sửa sau này (Khi có yêu cầu chỉnh sửa HTML/CSS/JS của header/footer thì chỉ cần sửa ở trong 2 files này thì tất cả các modules đều được cập nhât). Để đảm bảo CSS/JS của header/footer thì KH đã chọn giải pháp là viết CSS/JS internal.
 
 Thực hiện
